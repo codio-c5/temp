@@ -1,4 +1,5 @@
 ### Getting started
+
 There are various things you can do to quickly and efficiently configure your Codio Box to your exact requirements. 
 
 ### GUI Applications and the Virtual Desktop 
