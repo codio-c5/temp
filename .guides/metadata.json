@@ -21,9 +21,22 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "c239bec5-9703-a872-2a0f-1bd89ee84ffd",
+   "title": "New test page",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-test-page-c239.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
 }
